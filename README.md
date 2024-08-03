@@ -7,3 +7,4 @@ Repository for learning shiny with simple apps
 
 + This is a bullet point
 
+This is a new text
