@@ -1,0 +1,19 @@
+/* Get a fancy font from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+body {
+  background-color: black
+  color: white; /* text color */
+}
+
+/* Change header text to imported font */
+h2 {
+  font-family: 'Tangerine', sans-serif;
+  color: #098869;
+  font-size: 100px;
+}
+
+.sidebar {
+  background-color: red;
+  color: white;
+}
